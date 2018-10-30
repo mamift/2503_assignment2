@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sql/create_assignment2_tables.sql",
+			"settings":
+			{
+				"buffer_size": 4046,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sql/added_item_times.sql",
+			"settings":
+			{
+				"buffer_size": 1372,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wwt",
+				"Word Wrap: Toggle"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/inetpub/projects/2503_assignment2",
+		"/C/inetpub/projects/2503_assignment2/includes",
+		"/C/inetpub/projects/2503_assignment2/scripts",
+		"/C/inetpub/projects/2503_assignment2/sql"
+	],
+	"file_history":
+	[
+		"/C/inetpub/projects/2503_assignment2/sql/dbAndUser.sql",
+		"/C/inetpub/projects/shakesta/app/views/login.blade.php",
+		"/C/inetpub/projects/shakesta/app/storage/views/9ad3380c90562cee7113a7dc9348a7ce",
+		"/C/inetpub/projects/shakesta/app/storage/views/61d380bcc1835e9ae8b2d07d4b100a03",
+		"/C/inetpub/projects/shakesta/app/config/database.php",
+		"/C/inetpub/projects/shakesta/app/controllers/dbAndUser.sql",
+		"/C/inetpub/projects/smarty-net-mon/db/dbuser.sql",
+		"/C/inetpub/projects/bpanz.com-sc/README_NOTES.txt",
+		"/C/inetpub/projects/bpanz.com-sc/app/SpellcheckAPI_routes.php",
+		"/C/inetpub/projects/bpanz.com-sc/app/helpers.php",
+		"/C/inetpub/projects/bpanz.com-sc/app/routes.php",
+		"/C/inetpub/projects/bpanz.com-sc/readme.md",
+		"/C/inetpub/projects/bpanz.com-sc/app/models/Results.php",
+		"/C/inetpub/projects/bpanz.com-sc/app/controllers/SpellCheckAPIController.php",
+		"/C/inetpub/projects/bpanz.com-sc/app/controllers/HomeController.php",
+		"/C/php/php-7.0.32-nts-Win32-VC14-x86/php.ini",
+		"/C/inetpub/projects/bpanz.com-sc/app/database/migrations/2016_01_11_132010_CreateAPIKeysTable.php",
+		"/C/inetpub/projects/bpanz.com-sc/app/config/database.php",
+		"/C/inetpub/projects/bpanz.com-sc/app/config/app.php",
+		"/C/inetpub/projects/bpanz.com-sc/app/database/migrations/2015_12_23_104826_CreateWordsTable.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chana13_shakesta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sql/create_assignment2_tables.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sql/added_item_times.sql",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "2503assignment.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app \\database",
+				"app\\config\\database.php"
+			],
+			[
+				"results.",
+				"app\\models\\Results.php"
+			],
+			[
+				"Results",
+				"app\\models\\Results.php"
+			],
+			[
+				"spellcheckcontrol",
+				"app\\controllers\\SpellCheckAPIController.php"
+			],
+			[
+				"results",
+				"app\\models\\Results.php"
+			],
+			[
+				"spellcheckapirou",
+				"app\\SpellcheckAPI_routes.php"
+			],
+			[
+				"routes",
+				"app\\routes.php"
+			],
+			[
+				"homecontro",
+				"app\\controllers\\HomeController.php"
+			],
+			[
+				"database.php",
+				"app\\config\\database.php"
+			],
+			[
+				"app config",
+				"app\\config\\app.php"
+			],
+			[
+				"createapi",
+				"app\\database\\migrations\\2016_01_11_132010_CreateAPIKeysTable.php"
+			],
+			[
+				"database\\migration",
+				"app\\database\\migrations\\2016_01_11_132010_CreateAPIKeysTable.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\inetpub\\projects\\shakesta\\shakesta.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 138.0,
+		"last_filter": "r404",
+		"selected_items":
+		[
+			[
+				"r404",
+				"r404_json"
+			],
+			[
+				"results",
+				"results"
+			]
+		],
+		"width": 707.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

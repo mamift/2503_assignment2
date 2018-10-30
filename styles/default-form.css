@@ -1,0 +1,139 @@
+﻿input[type=button], input[type=submit], input[type=reset], button   {
+	padding: 2pt 5pt 2pt 5pt;
+	font-family: Verdana;
+	vertical-align: middle;
+	
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	border: 2px black solid;
+	
+	background-color: #000000;
+	color: #FFFFFF;
+	vertical-align: middle;
+	cursor: pointer;
+}
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, button:hover  {
+	background-color: #FF9900;
+	color: #000000;
+}
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active, button:active  {
+	background-color: #3399FF;
+}
+input[type=button]:focus, input[type=submit]:focus, input[type=reset]:focus, button:focus {
+	background-color: #3399FF;
+}
+
+input[type=button]:disabled, input[type=submit]:disabled, input[type=reset]:disabled, button:disabled  {
+	cursor: default;
+	background-color: #666666;
+}
+
+.error {
+	color: #FF3300;
+/**	font-weight: bold; */
+	text-align: center;
+	
+	margin: 24px 0 24px 0;
+}
+
+input:disabled, textarea:disabled, select:disabled {
+	font-family: inherit;
+	
+	color: #000000;
+	font-weight: normal;
+}
+
+input[readonly] {
+	color: #666666;
+}
+
+input[hidden] {
+	visibility: hidden; display: none;
+}
+
+form * a:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+	
+	border-bottom-style: none;
+}
+
+form * a {	
+	border-bottom: 1.5px #3333FF dotted; 
+/**	color: #003300; */
+}
+
+.info-box {
+	margin: 4px 0 4px 0;
+	float: none;
+	
+	font-weight: normal;
+}
+
+div.info-box {
+	max-width: 200px;
+}
+
+.login-table-username-detail input, .register-table-username-detail input  {
+	width: 220px;
+}
+
+.login-table-password-detail input, .register-table-password-detail input  {
+	width: 220px;
+}
+
+.register-table tr td:first-of-type {
+	width: 225px;
+}
+
+.register-table-email-detail input {
+	width: 220px;
+}
+
+.register-table-description-detail textarea {
+	width: 470px;
+	height: 75px;
+}
+
+.register-table-username-detail > td > div:first-of-type {
+	color: #9B1F00;
+}
+
+.register-table-password-detail > td > div:first-of-type {
+	color: #9B1F00;
+}
+
+table.register-table + table.register-table {
+	margin: 18pt auto 0 auto;
+}
+
+.login-message {
+	color: #FF0000;
+/**	background-color: #FFFFFF; */
+	font-weight: bold;
+}
+
+table.login-message, table.login-message tbody tr td {
+	text-align: center;
+}
+
+table.login-message tbody tr td a {
+	color: #000000;
+}
+
+#logout-form {	
+	width: 100px;
+	height: 100px;
+	
+	background-color: #0C0C0C;
+	
+	position: absolute; width: 135px; height: 56px; z-index: 1; left: 92px; top: 117px;
+	box-shadow: 4px 4px 25px 10px #000000;
+}
+.new-user-message {
+	color: cyan;
+}
+
+#item-bid-form * input[type=number] {
+	width: 160px;
+}

@@ -1,0 +1,15 @@
+﻿
+/*	
+	ORDER OF ATTRIBUTES: 
+	* Alignment, borders, margin and padding 
+	* Positioning, display, visibility 
+	* Background, colours and fonts 
+	* Text formatting 
+	* Width, height and dimensions 
+	
+	* Cursor 
+*/
+
+.dashboard {
+	background-color: transparent;
+}

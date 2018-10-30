@@ -1,0 +1,75 @@
+﻿
+/*	
+	ORDER OF ATTRIBUTES: 
+	* Alignment, borders, margin and padding 
+	* Positioning, display, visibility 
+	* Background, colours and fonts 
+	* Text formatting 
+	* Width, height and dimensions 
+	
+	* Cursor 
+*/
+
+@font-face {
+	font-family: "Segoe UI";
+	src: url("fonts/segoe/segoeui.eot"), url("fonts/segoe/segoeui.ttf"); 
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+}
+@font-face {
+	font-family: "Segoe UI";
+	src: url('fonts/segoe/segoeuib.eot'), url('fonts/segoe/segoeuib.ttf');
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+}
+
+body {
+	text-align: left;
+	margin: 0;
+	padding: 0;
+
+	background-color: #333333;
+	color: #000000;
+	font-family: "Segoe UI", Tahoma, sans-serif;
+	font-size: 13pt;	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+
+h1 {
+	margin: 0 0 0 0;
+	
+	font-size: 28px;
+	font-weight: normal;
+}
+
+h2 {
+	margin: 0 0 0 0;
+	
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.text-box {
+	border: 0;
+	
+	margin: 7pt auto 6pt auto;
+	width: 90%;
+	
+	vertical-align: top;
+	
+	text-align: left;
+	
+	font-size: 12pt;
+	width: 90%;
+	
+	float: none;
+}
+
+.text-title {
+	font-weight: bold;
+}
